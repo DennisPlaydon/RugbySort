@@ -3,7 +3,7 @@ This is a custom sorting algorithm that I used to apply directly to a data set t
 
 This sorting algorithm using an insertion sort to order the elements of the file efficiently
 
-*Note:* This was a university project that I worked on, rather than a personal project. Nonetheless I still took away valuable knowledge from this project. 
+*Note: This was a university project that I worked on, rather than a personal project.* Nonetheless I still took away valuable knowledge from this project. 
 
 ## What I learnt
 
