@@ -1,0 +1,18 @@
+Blues, 4, 40, 374, 380
+Brumbies, 3, 43, 425, 326
+Bulls, 1, 47, 420, 260
+Cheetahs, 1, 22, 372, 487
+Chiefs, 4, 51, 491, 341
+Crusaders, 4, 50, 487, 317
+Force, 3, 13, 260, 441
+Highlanders, 4, 52, 430, 286
+Hurricanes, 4, 52, 458, 314
+Jaguars, 2, 22, 418, 476
+Lions, 2, 52, 535, 349
+Rebels, 3, 31, 365, 486
+Reds, 3, 17, 290, 458
+Sharks, 2, 47, 418, 231
+Southern Kings, 2, 9, 282, 684
+Stormers, 1, 47, 425, 265
+Sunwolves, 1, 9, 293, 627
+Waratahs, 3, 40, 413, 317
