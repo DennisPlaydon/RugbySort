@@ -1,8 +1,4 @@
 """
-UPI: dpla823
-Author: Dennis Playdon
-ID: 710798768
-Date: October 2017
 This program will order the rugby teams and presents it in a neat format
 """
 
